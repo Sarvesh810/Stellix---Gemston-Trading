@@ -1,0 +1,51 @@
+# Node.js dependencies
+node_modules/
+
+# Expo directories
+.expo/
+.expo-shared/
+
+# Build artifacts
+ios/build/
+android/app/build/
+android/build/
+
+# CocoaPods
+ios/Pods/
+
+# Android specific files
+android/.gradle/
+android/local.properties
+
+# Expo Web build output
+web-build/
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Metro bundler cache (React Native)
+metro-cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor directories/settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional: Other temporary or cache directories (if applicable)
+.cache/
+tmp/
